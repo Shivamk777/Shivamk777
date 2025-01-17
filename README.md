@@ -2,8 +2,6 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/v2/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1674617947228?e=1742428800&v=beta&t=fAyeKdsfUA0WJJ2cfUC-XN_dd_nTfDsqB336dFYhC4w">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamk777&label=Profile%20views&color=0e75b6&style=flat" alt="shivamk777" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shivam-patel-a11979247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivam-patel-a11979247/" height="30" width="40" /></a>
@@ -15,5 +13,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamk777&show_icons=true&locale=en&layout=compact" alt="shivamk777" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamk777&show_icons=true&locale=en" alt="shivamk777" /></p>
+
 
