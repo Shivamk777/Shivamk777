@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivam Patel</h1>
-<h3 align="center">A passionate full stack developer </h3>
+<h3 align="center"> </h3>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/v2/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1674617947228?e=1742428800&v=beta&t=fAyeKdsfUA0WJJ2cfUC-XN_dd_nTfDsqB336dFYhC4w">
 
 <h3 align="left">Connect with me:</h3>
