@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivam Patel</h1>
 <h3 align="center"> </h3>
-<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/v2/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1674617947228?e=1742428800&v=beta&t=fAyeKdsfUA0WJJ2cfUC-XN_dd_nTfDsqB336dFYhC4w">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/0e2953d98b21eda5a158939ea202c7c07b16b0dc0dc5c1e269826c29a01a974f/68747470733a2f2f7777772e77656232347a6f6e652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f31302f34363230372d70726f6772616d6d65722d312e676966">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
